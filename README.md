@@ -26,5 +26,5 @@ I am Sandip Roy, I am Aspiring a Data Scientist and I love to research about Mac
 <br>
 
 ## ⚡ Explore repositories:
-[![Readme Card](https://github-readme-stats-zeta-woad.vercel.app/api/pin/?username=pransandip&show_owner=true&theme=vue&repo=Car-Price-Prediction)](https://github.com/pransandip/Car-Price-Prediction)
+
 
