@@ -1,1 +1,1 @@
-## 1. Hello World :wave:
+## Hello World :wave:
