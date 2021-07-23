@@ -7,3 +7,10 @@ I am Sandip Roy, I am Aspiring a Data Scientist and I love to research about Mac
 ![](https://badges.pufler.dev/repos/pransandip/?style=flat&logo=github&color=green)
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+*  📝 Checkout my [Resume](https://drive.google.com/file/d/1CLM1eM_Be7OPyMBsJ286xuYmVhr0kTuF/view?usp=sharing)
+*  🧠 I have technical experience and interest in -
+   * Natural Language Processing
+   * Recommendation System
+   * MLOps
+   * Full-Stack Development
