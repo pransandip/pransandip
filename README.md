@@ -32,6 +32,5 @@ I am Sandip Roy, I am Aspiring a Data Scientist and I love to research about Mac
 💬 You can also find me on
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/RySandip?label=%40RySandip&style=social "follow me on Twitter")
-[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/b63c4bf218493fdef0059d5eb7d99e07/raw/rb-medium.json)](https://medium.com/@pransandip "Read my blogs on Medium")
-<a href="https://www.linkedin.com/in/pransandip/"><img src=https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg height="20px"/><a/>
+[![](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=black&color=white)](https://medium.com/@pransandip "Read my blogs on Medium")   <a href="https://www.linkedin.com/in/pransandip/"><img src=https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg height="20px"/><a/>
 
