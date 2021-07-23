@@ -20,6 +20,6 @@ I am Sandip Roy, I am Aspiring a Data Scientist and I love to research about Mac
 <br>
 
 ## 🏆 Github Status
-<img  src="https://github-readme-stats-zeta-woad.vercel.app/api?username=pransandip&hide=contribs&count_private=true&show_icons=true&hide_border=true&theme=radical" width="52%" align="right" >
+<img  src="https://github-readme-stats-zeta-woad.vercel.app/api?username=pransandip&hide=contribs&count_private=true&show_icons=true&hide_border=true&theme=radical" width="50%" align="right" >
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=pransandip&theme=dark" width="45%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=pransandip&theme=dark" width="43%" >
