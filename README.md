@@ -3,6 +3,7 @@ I am Sandip Roy, I am Aspiring a Data Scientist and I love to research about Mac
 
 
 ![](https://komarev.com/ghpvc/?username=pransandip&style=flat)
-![](https://img.shields.io/repology/repositories/repo?label=Repos&logo=github)
+![](https://img.shields.io/badge/focus-MLOps-3c9)
+![](https://badges.pufler.dev/repos/pransandip/?style=flat&logo=github)
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
