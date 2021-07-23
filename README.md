@@ -14,3 +14,4 @@ I am Sandip Roy, I am Aspiring a Data Scientist and I love to research about Mac
    * Recommendation System
    * MLOps
    * Full-Stack Development
+* 📫 How to reach me [Mail](mailto:pransandip@gmail.com)
