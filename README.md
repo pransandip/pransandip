@@ -31,3 +31,5 @@ I am Sandip Roy, I am Aspiring a Data Scientist and I love to research about Mac
 
 💬 You can also find me on
 
+![Twitter Follow](https://img.shields.io/twitter/follow/RySandip?style=social)
+
