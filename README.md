@@ -17,6 +17,33 @@ I am Sandip Roy, I am Aspiring a Data Scientist and I love to research about Mac
 * 📫 How to reach me [Mail](mailto:pransandip@gmail.com)
 
 ## 📚 Languages and Tools:
+<div align="center">
+  
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" height="60" width="60">  
+<img src="https://github.com/pransandip/pransandip/blob/main/logos/Jupyter.png?raw=true" height="60" width="60">
+<img src="https://github.com/pransandip/pransandip/blob/main/logos/python.png?raw=true" height="60" width="60">
+<img src="https://github.com/pransandip/pransandip/blob/main/logos/Scikit_learn.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/css.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/html.png?raw=true" height="60" width="60">
+<img src="https://github.com/pransandip/pransandip/blob/main/logos/Heroku.png?raw=true" height="60" width="60">
+<img src="https://github.com/pransandip/pransandip/blob/main/logos/JS.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/django.jpg?raw=true" height="60" width="60">
+<img src="https://img.icons8.com/color/452/mongodb.png" height="60" width="60">
+
+<br>
+
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/react.png?raw=true" height="60" width="60">
+<img src="https://github.com/pransandip/pransandip/blob/main/logos/TensorFlow.png?raw=true" height="60" width="60">
+<img src="https://github.com/pransandip/pransandip/blob/main/logos/mysql.png?raw=true" height="60" width="60">
+<img src="https://github.com/pransandip/pransandip/blob/main/logos/PyTorch.png?raw=true" height="60" width="60">
+<img src="https://github.com/pransandip/pransandip/blob/main/logos/Linux.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/bootstrap.png?raw=true" height="60" width="60">
+<img src="https://github.com/pransandip/pransandip/blob/main/logos/postman.png?raw=true" height="60" width="60">
+<img src="https://github.com/pransandip/pransandip/blob/main/logos/numpy_github.png?raw=true" height="60" width="60">
+
+</div>
 <br>
 
 ## 🏆 Github Status
