@@ -20,7 +20,6 @@ I am Sandip Roy, I am Aspiring a Data Scientist and I love to research about Mac
 <div align="center">
   
 <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" height="60" width="60"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="60" width="60"> 
 <img src="https://github.com/pransandip/pransandip/blob/main/logos/Jupyter.png?raw=true" height="60" width="60">
 <img src="https://github.com/pransandip/pransandip/blob/main/logos/python.png?raw=true" height="60" width="60">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"    height="60" width="60">
@@ -43,6 +42,7 @@ I am Sandip Roy, I am Aspiring a Data Scientist and I love to research about Mac
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/bootstrap.png?raw=true" height="60" width="60">
 <img src="https://github.com/pransandip/pransandip/blob/main/logos/postman.png?raw=true" height="60" width="60">
 <img src="https://github.com/pransandip/pransandip/blob/main/logos/numpy_github.png?raw=true" height="60" width="60">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="60" width="60"> 
 
 </div>
 <br>
