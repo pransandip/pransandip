@@ -57,9 +57,9 @@ I am Sandip Roy, I am Aspiring a Data Scientist and I love to research about Mac
 
 ## ⚡ Explore repositories:
 [![Readme Card](https://github-readme-stats-zeta-woad.vercel.app/api/pin/?username=pransandip&show_owner=true&theme=vue&repo=Advanced-Housing-Prices)](https://github.com/pransandip/Advanced-Housing-Prices)
+<br>
 
-
-💬 You can also find me on
+💬 You can also find me on..
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/RySandip?label=%40RySandip&style=social "follow me on Twitter")&nbsp;&nbsp; [![](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=black&color=grey)](https://medium.com/@pransandip "Read my blogs on Medium")&nbsp;&nbsp;   <a href="https://www.linkedin.com/in/pransandip/"><img src=https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg height="20px"/><a/>
 
