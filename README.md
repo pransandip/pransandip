@@ -58,7 +58,6 @@ I am Sandip Roy, I am Aspiring a Data Scientist and I love to research about Mac
 ## ⚡ Explore repositories:
 [![Readme Card](https://github-readme-stats-zeta-woad.vercel.app/api/pin/?username=pransandip&show_owner=true&theme=vue&repo=Advanced-Housing-Prices)](https://github.com/pransandip/Advanced-Housing-Prices)
 
-<br>
 
 💬 You can also find me on..
 
