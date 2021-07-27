@@ -28,13 +28,13 @@ I am Sandip Roy, I am Aspiring a Data Scientist and I love to research about Mac
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="60" width="60">
 <img src="https://github.com/pransandip/pransandip/blob/main/logos/Heroku.png?raw=true" height="60" width="60">
 <img src="https://github.com/pransandip/pransandip/blob/main/logos/JS.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/django.jpg?raw=true" height="60" width="60">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" height="60" width="60">
 <img src="https://img.icons8.com/color/452/mongodb.png" height="60" width="60">
 
 <br>
 
 <img src="https://reactnative.dev/img/header_logo.svg" height="60" width="60">
-<img src="https://github.com/pransandip/pransandip/blob/main/logos/TensorFlow.png?raw=true" height="60" width="60">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="60" width="60">
 <img src="https://github.com/pransandip/pransandip/blob/main/logos/mysql.png?raw=true" height="60" width="60">
 <img src="https://github.com/pransandip/pransandip/blob/main/logos/PyTorch.png?raw=true" height="60" width="60">
 <img src="https://github.com/pransandip/pransandip/blob/main/logos/Linux.png?raw=true" height="60" width="60">
