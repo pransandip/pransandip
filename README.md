@@ -33,7 +33,7 @@ I am Sandip Roy, I am Aspiring a Data Scientist and I love to research about Mac
 
 <br>
 
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/react.png?raw=true" height="60" width="60">
+<img src="https://reactnative.dev/img/header_logo.svg" height="60" width="60">
 <img src="https://github.com/pransandip/pransandip/blob/main/logos/TensorFlow.png?raw=true" height="60" width="60">
 <img src="https://github.com/pransandip/pransandip/blob/main/logos/mysql.png?raw=true" height="60" width="60">
 <img src="https://github.com/pransandip/pransandip/blob/main/logos/PyTorch.png?raw=true" height="60" width="60">
