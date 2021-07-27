@@ -25,6 +25,7 @@ I am Sandip Roy, I am Aspiring a Data Scientist and I love to research about Mac
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"    height="60" width="60">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="60" width="60">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="60" width="60">
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="60" width="60">
 <img src="https://github.com/pransandip/pransandip/blob/main/logos/Heroku.png?raw=true" height="60" width="60">
 <img src="https://github.com/pransandip/pransandip/blob/main/logos/JS.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/django.jpg?raw=true" height="60" width="60">
