@@ -15,6 +15,7 @@ I am Sandip Roy, I am Aspiring a Data Scientist and I love to research about Mac
    * MLOps
    * Full-Stack Development
 * 📫 How to reach me [Mail](mailto:pransandip@gmail.com)
+<br />
 
 ## 📚 Languages and Tools:
 <div align="center">
