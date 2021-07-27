@@ -42,8 +42,8 @@ I am Sandip Roy, I am Aspiring a Data Scientist and I love to research about Mac
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true" height="60" width="60">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="60" width="60">
 <img src="https://github.com/pransandip/pransandip/blob/main/logos/postman.png?raw=true" height="60" width="60">
-<img src="https://github.com/pransandip/pransandip/blob/main/logos/numpy_github.png?raw=true" height="60" width="60">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="60" width="60"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="60" width="60">
+<img src="https://github.com/pransandip/pransandip/blob/main/logos/numpy_github.png?raw=true" height="60" width="60"> 
 
 </div>
 <br>
