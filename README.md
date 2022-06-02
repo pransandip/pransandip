@@ -71,9 +71,9 @@ I am Sandip Roy, I am Aspiring a Data Scientist and I love to research about Mac
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="50" width="50">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" height="50" width="50">
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="50" width="50">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true" height="50" width="50">
 <img src="https://github.com/pransandip/pransandip/blob/main/logos/Linux.png?raw=true" height="50" width="50">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="50" width="50">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true" height="50" width="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="50" width="50">
 <img src="https://github.com/pransandip/pransandip/blob/main/logos/postman.png?raw=true" height="50" width="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50" width="50">
