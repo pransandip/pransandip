@@ -22,18 +22,26 @@ I am Sandip Roy, I am Aspiring a Data Scientist and I love to research about Mac
 <p> 
 <a href="https://www.javascript.com/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="50" width="50"> </a>
+
 <a href="https://reactjs.org/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="50" width="50">
-</a>
-<img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" height="50" width="50">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="50" width="50"></a>
+
+<a href="https://jupyter.org/" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" height="50" width="50"></a>
+
+<a href="https://www.python.org/" target="_blank"> 
 <img src="https://github.com/pransandip/pransandip/blob/main/logos/python.png?raw=true" height="50" width="50">
+</a>
+
+<a href="hhttps://www.djangoproject.com/" target="_blank">
+<img src="https://github.com/pransandip/pransandip/blob/main/logos/django.jpg" height="50" width="50">
+</a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"    height="50" width="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="50" width="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="50" width="50">
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="50" width="50">
 <img src="https://github.com/pransandip/pransandip/blob/main/logos/Heroku.png?raw=true" height="50" width="50">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" height="50" width="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" height="50" width="50">
 <img src="https://img.icons8.com/color/452/mongodb.png" height="50" width="50">
 </p>
 
