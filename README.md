@@ -66,19 +66,50 @@ I am Sandip Roy, I am Aspiring a Data Scientist and I love to research about Mac
 </p>
 
 <br>
-
+<p>
+<a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" height="50" width="50"> 
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="50" width="50">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" height="50" width="50">
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="50" width="50">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true" height="50" width="50">
-<img src="https://github.com/pransandip/pransandip/blob/main/logos/Linux.png?raw=true" height="50" width="50">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="50" width="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="50" width="50">
-<img src="https://github.com/pransandip/pransandip/blob/main/logos/postman.png?raw=true" height="50" width="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50" width="50">
-<img src="https://github.com/pransandip/pransandip/blob/main/logos/numpy_github.png?raw=true" height="50" width="50"> 
+</a>
 
+<a href="https://www.tensorflow.org/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="50" width="50">
+</a>
+
+<a href="https://aws.amazon.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" height="50" width="50">
+</a>
+<a href="https://pytorch.org/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="50" width="50">
+</a>
+
+<a href="https://code.visualstudio.com/ target="_blank">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true" height="50" width="50">
+</a>
+
+<a href="https://www.linux.org/" target="_blank">
+<img src="https://github.com/pransandip/pransandip/blob/main/logos/Linux.png?raw=true" height="50" width="50">
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="50" width="50">
+</a>
+
+<a href="https://getbootstrap.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="50" width="50">
+</a>
+
+<a href="https://www.postman.com/" target="_blank">
+<img src="https://github.com/pransandip/pransandip/blob/main/logos/postman.png?raw=true" height="50" width="50">
+</a>
+
+<a href="https://scikit-learn.org/stable/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50" width="50">
+</a>
+
+<a href="https://numpy.org/" target="_blank">
+<img src="https://github.com/pransandip/pransandip/blob/main/logos/numpy_github.png?raw=true" height="50" width="50"> 
+</a>
+</p>
 </div>
 <br>
 
