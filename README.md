@@ -33,16 +33,36 @@ I am Sandip Roy, I am Aspiring a Data Scientist and I love to research about Mac
 <img src="https://github.com/pransandip/pransandip/blob/main/logos/python.png?raw=true" height="50" width="50">
 </a>
 
-<a href="hhttps://www.djangoproject.com/" target="_blank">
+<a href="https://www.djangoproject.com/" target="_blank">
 <img src="https://github.com/pransandip/pransandip/blob/main/logos/django.jpg" height="50" width="50">
 </a>
+
+<a href="https://www.docker.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"    height="50" width="50">
+</a>
+
+<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="50" width="50">
+</a>
+
+<a href="https://html.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="50" width="50">
+</a>
+<a href="https://cloud.google.com/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="50" width="50">
+</a>
+
+<a href="https://www.heroku.com/" target="_blank">
 <img src="https://github.com/pransandip/pransandip/blob/main/logos/Heroku.png?raw=true" height="50" width="50">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" height="50" width="50">
+</a>
+
+<a href="https://kubernetes.io/" target="_blank">
+<img src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png" height="50" width="50">
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank">
 <img src="https://img.icons8.com/color/452/mongodb.png" height="50" width="50">
+</a>
 </p>
 
 <br>
