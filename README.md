@@ -115,7 +115,7 @@ I am Sandy, I am a Full Stack Developer && Data Science Practitioner and I love 
 <br>
 
 ## 🏆 Github Status
-<img  src="https://github-readme-stats-zeta-woad.vercel.app/api?username=pransandip&hide=contribs&count_private=true&show_icons=true&hide_border=true&theme=vue" width="50%" align="right" >
+<img  src="https://github-readme-stats-zeta-woad.vercel.app/api?username=pransandip&hide=contribs&count_private=true&show_icons=true&hide_border=false&theme=vue" width="50%" align="right" >
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=pransandip&theme=vue" width="43%" >
 <br>
