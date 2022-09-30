@@ -4,7 +4,6 @@ I am Sandy, I am a Full Stack Developer & Data Science Practitioner and I love t
 
 ![](https://komarev.com/ghpvc/?username=pransandip&style=flat)
 ![](https://img.shields.io/badge/focus-MLOps-3c9)
-[![Repos Badge](https://badges.pufler.dev/repos/pransandip/?style=flat&logo=github&color=green)](https://badges.pufler.dev)
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
