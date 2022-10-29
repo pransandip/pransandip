@@ -40,8 +40,8 @@ I am Sandy, I am a Full Stack Developer & Data Science Practitioner and I love t
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"    height="50" width="50">
 </a>
 
-<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="50" width="50">
+<a href="https://nodejs.org/en/docs/guides/getting-started-guide/" target="_blank">
+<img src="https://github.com/pransandip/pransandip/blob/main/logos/node.jpeg" height="50" width="50">
 </a>
 
 <a href="https://html.com/" target="_blank">
