@@ -25,6 +25,10 @@ I am Sandy, I am a Full Stack Developer & Data Science Practitioner and I love t
 <a href="https://reactjs.org/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="50" width="50"></a>
 
+<a href="https://nodejs.org/en/docs/guides/getting-started-guide/" target="_blank">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height="50" width="50">
+</a>
+
 <a href="https://jupyter.org/" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" height="50" width="50"></a>
 
@@ -40,9 +44,6 @@ I am Sandy, I am a Full Stack Developer & Data Science Practitioner and I love t
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"    height="50" width="50">
 </a>
 
-<a href="https://nodejs.org/en/docs/guides/getting-started-guide/" target="_blank">
-<img src="https://github.com/pransandip/pransandip/blob/main/logos/node.jpeg" height="50" width="50">
-</a>
 
 <a href="https://html.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="50" width="50">
